@@ -26,3 +26,22 @@ print(type(year))
 print(type(is_married))
 print(type(is_true))
 print(type(is_light_on))
+num_1=5
+num_2=4
+total=sum((num_1,num_2))
+subtraction=num_1-num_2
+multiplication=num_1*num_2
+division=num_1/num_2    
+modulus=num_2%num_1
+exp=num_2**num_1
+floor_division=num_1//num_2
+radius=30
+area_of_circle=3.14*radius**2
+circum_of_circle=2*3.14*radius
+r=input("Enter radius:")
+area_of_circle1=3.14*float(r)**2
+circum_of_circle1=2*3.14*float(r)
+first_name1=input("Enter your first name:")
+last_name1=input("Enter your last name:")
+country1=input("Enter your country:")
+age1=input("Enter your age:")gi
